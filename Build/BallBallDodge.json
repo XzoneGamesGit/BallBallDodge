@@ -1,7 +1,7 @@
 {
 "companyName": "XzoneGames",
 "productName": "BallBallDodge",
-"productVersion": "1",
+"productVersion": "0.1",
 "dataUrl": "BallBallDodge.data.unityweb",
 "wasmCodeUrl": "BallBallDodge.wasm.code.unityweb",
 "wasmFrameworkUrl": "BallBallDodge.wasm.framework.unityweb",
